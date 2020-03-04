@@ -1,2 +1,2 @@
-# C-Programs
+# C++-Programs
 Zero to Hero in C++
